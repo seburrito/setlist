@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+# Xcode - user-specific / local IDE state (never share between machines)
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+# Build products (shouldn't live inside the repo anyway, but just in case)
+DerivedData/
+build/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
